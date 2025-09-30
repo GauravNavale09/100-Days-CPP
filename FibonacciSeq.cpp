@@ -26,10 +26,7 @@ int main()
             term1=term2;
             term2=nextTerm;
         }
-        
     }
-
-
-
     return 0;
+
 }
