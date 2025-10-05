@@ -17,6 +17,5 @@ int main()
      cout<<"Reverse is:"<<reverse;
     
     return 0;
-
-
+
 }
