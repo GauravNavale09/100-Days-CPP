@@ -8,7 +8,6 @@ int main()
     cin>>c;
     cout<<" ASCII Value of "<<c<<" is "<< int(c);
 
-    return 0;
-
+    return 0;
 }
 
