@@ -16,7 +16,7 @@ long long lcm(int a, int b) {
 }
 
 int main() {
-    int num1, num2;
+    int num1,num2;
 
     cout << "Enter two numbers: ";
     cin >> num1 >> num2;
